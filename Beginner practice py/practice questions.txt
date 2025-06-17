@@ -1,0 +1,46 @@
+ Beginner Level (Basics of Python)
+Write a program to find the largest of three numbers.
+Check if a number is even or odd.
+Count the number of vowels in a string.
+Print a multiplication table of a given number.
+Reverse a string using slicing.
+Check if a string is a palindrome.
+Sum of all elements in a list.
+Find the factorial of a number using recursion.
+Find the maximum and minimum number in a list.
+Remove all duplicates from a list.
+Remove all even numbers from a list.
+Count the number of consonants in a string.
+Print the multiplication table from 1 to 10 for a given number.
+Reverse a number using string slicing.
+Check if a number is a palindrome.
+Calculate the average of elements in a list.
+Find the factorial of a number using a for loop (not recursion).
+Find the second largest number in a list.
+Remove all even numbers from a list.
+Count how many times each element appears in a list.
+Check if all elements in a list are unique.
+Find the largest of three numbers using nested if-else.
+Check if a given number is positive, negative, or zero.
+Check if a year is a leap year or not.
+Hint: Divisible by 4 and (not by 100 unless divisible by 400)
+Check if a number is divisible by both 3 and 5.
+Check if a character is a vowel or consonant.
+Swap two numbers without using a third variable.
+Check if a number is even or odd using a function.
+Print all even numbers from 1 to N (user input).
+Find the sum of digits of a given number.
+Example: 123 → 1+2+3 = 6
+Count how many odd numbers are in a list.
+
+
+**Bonus Logic-Based Questions**
+Print the largest, smallest, and middle number out of 3 using if-else.
+Check if a triangle is valid given 3 sides.
+Rule: Sum of any 2 sides must be greater than the third.
+Calculate electricity bill:
+First 100 units: ₹5/unit
+Next 100 units: ₹7/unit
+Above 200 units: ₹10/unit
+Check if a person is eligible to vote (age ≥ 18).
+Find the grade based on marks (90+ = A, 80+ = B, etc).
